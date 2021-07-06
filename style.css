@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.color-efect{
+    color: #7cfc00;
+}
+.color-efect2{
+    color: #ffa500;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(white, blue);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
