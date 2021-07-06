@@ -45,3 +45,38 @@ section{
     margin-right: 30%;
     color: grey;
 }
+.recipy-continar{
+    display: flex;
+    justify-content: space-between;
+}
+.recipy-item img{
+    width: 100%;
+    border-radius: 15px;
+}
+.recipy-item{
+    margin: 0 15px ;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 10px 10px 30px gray;
+
+}
+.counter-containar{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#counter{
+    box-shadow: 10px 10px 30px gray;
+    width: 100%;
+}
+.counter-item{
+    margin: 0 150px;
+    text-align: center;
+}
+#BACK{
+    text-align: center;
+    padding:0 400px ;
+    background-color: mediumslateblue;
+}
+.footer h1{
+}
