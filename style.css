@@ -36,3 +36,12 @@ section{
 .about-me{
     background-image: url(images/shapes/7.png);
 }
+.midel-class{
+    margin-left: 40%;
+    color: rgb(49, 53, 49);
+}
+.midel-class2{
+    margin-left: 35%;
+    margin-right: 30%;
+    color: grey;
+}
